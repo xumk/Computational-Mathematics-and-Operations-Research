@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c83af9a-d6ff-4eb2-b909-8bea2312b6ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LB2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Jacobi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Jacobi2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Jacobi3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MethodGayssa.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_3/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_3/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_3/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_3/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_3/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_3/LB3.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_3/src/CalculationsHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_3/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_3/src/NonlinearSystemEquation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_4/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_4/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_4/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_4/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_4/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_4/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_4/LB4.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_4/src/CalculationsHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_4/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_4/src/MethodDanilevsky.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_4/src/RotationMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_6/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_6/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_6/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_6/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_6/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_6/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_6/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_6/LB6.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_6/src/CalculationsHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Laboratory work_6/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LB2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -176,8 +134,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -244,6 +200,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -503,6 +461,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -668,6 +627,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -704,11 +669,12 @@
       <workItem from="1449559724403" duration="592000" />
       <workItem from="1479917141721" duration="185000" />
       <workItem from="1479917997073" duration="182000" />
+      <workItem from="1479918213451" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="959000" />
+    <option name="totallyTimeSpent" value="1029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
